@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "218968592264",
+    "project_id": "fire-7fd14",
+    "storage_bucket": "fire-7fd14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218968592264:android:05b0786aa78237a25d343d",
+        "android_client_info": {
+          "package_name": "com.example.makeitso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218968592264-iispqsabu01eb5v5tjp5ht7ot8bm3rlv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASHs1ORPPEQYi8YVN65lJUjgE0lv_fH_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218968592264-iispqsabu01eb5v5tjp5ht7ot8bm3rlv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
